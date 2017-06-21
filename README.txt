@@ -1,2 +1,3 @@
 こんにちはgit
 さようならgit
+aaaaaa
